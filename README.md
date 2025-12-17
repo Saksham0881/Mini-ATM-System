@@ -1,0 +1,1 @@
+A console-based Java application that simulates a Mini-ATM system. It allows users to log in using authentication, perform basic banking operations such as deposit, withdrawal, balance inquiry, and view transaction history using a menu-driven interface.
